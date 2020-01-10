@@ -1,0 +1,41 @@
+elegir una carpeta
+
+crear proyecto
+comando : vue create pwa-axample
+selecionar tipo de instalacion
+forma manual enter
+
+selecionar babel ,typescript , progresibe web app,router,vuex y linter  (enter)
+clase de estilo como componente SI
+usar babel SI
+
+tipo de fprmato  tsi
+
+levantar el servicio 
+comando:  npm run server
+comando: yarn  run serve
+
+instalar plugin  lighthouse
+
+
+#############################
+
+1._ instalar esta dependencia dentro del proyecto 
+npm install firebase --save
+
+2._ create project in the browser(console) in firebase new project name pwa.example
+
+3._add command en el package.jason en script 
+
+"deploy": "firebase deploy --only hosting" 
+
+4._ incializar el proyecto con firebase 
+comando : firebase init
+*hosting
+*login 
+*proyecto existente pwa.example
+*selecionar pwa.example
+*directorio dist 
+#####
+*index.html pricipal packcage
+ 
